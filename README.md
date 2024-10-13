@@ -1,4 +1,4 @@
-<h1>Flutter starter project</h1>
+<h1>Flutter Laravel starter project</h1>
 
 Flutter starter project dengan laravel sebagai api nya.
 
